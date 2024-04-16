@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Kapil9711.github.io/monster-solodex",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
